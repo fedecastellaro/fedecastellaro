@@ -2,7 +2,7 @@
 
 ## I'm a Researcher, Developer, and an Electronic Enthusiast ! :mechanical_arm:	
 
-- 🔭 I'm an electronic engineer, currently working in circuit desinging and advance pcb development.
+- 🔭 I'm an electronic engineer, currently working in circuit desinging, advance pcb development and embedded systems programming.
 - 🌱 Trying to learn about everything all the time.
 
 ### Connect with me:
